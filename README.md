@@ -26,7 +26,7 @@ I'm a Brazilian living in the United States and learning web and mobile developm
 - 📫 How to reach me: pedro@devzilian.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' color='#ffffff' alt='github' height='40'>](https://github.com/devzilian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' color='#ffffff' height='40'>](https://twitter.com/@mpedrocjr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' color='#ffffff' height='40'>](https://devzilian.com)  
+
 
 
 
