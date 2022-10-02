@@ -26,8 +26,9 @@ I'm a Brazilian living in the United States and learning web and mobile developm
 - 📫 How to reach me: pedro@devzilian.com 
 
 
+### My Social Media
 
-
+* [Twitter](https://twitter.com/mpedrocjr)
 
 
 <!--
