@@ -1,10 +1,21 @@
 # Hi there 👋, I'm Pedro.
-##I do web development.
+## I do web development.
 ![I do web development.](https://media-exp1.licdn.com/dms/image/C4D16AQF-ghTW2CXtcw/profile-displaybackgroundimage-shrink_350_1400/0/1659642195872?e=1670457600&v=beta&t=g45GJE83Xk3rJOFl25x68EVZ0tVRXoiCMwHpoiLqn9M)
 
 I'm a Brazilian living in the United States and learning web and mobile development.
 
-## Skills:  React / Next Js / JavaScript / TypeScript / CSS / Tailwind CSS / MongoDB
+### Skills and Experience  
+
+* React
+* Next Js
+* JavaScript
+* TypeScript
+* CSS
+* Tailwind CSS
+* Prisma
+* MongoDB
+* GraphQL
+* CMS
 
 - 🔭 I’m currently working on devzilian.com 
 - 🌱 I’m currently learning TypeScript and MongoDB . 
